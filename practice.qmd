@@ -4,6 +4,7 @@ Start by importing the required packages:
 
 ```{python}
 import pandas as pd
+import matplot
 ```
 
 Let's create a sample dataset to work with:
@@ -23,4 +24,9 @@ And do something with it:
 
 ```{python}
 star_wars_df.info()
+```
+
+```{python}
+star_wars_df.head()
+
 ```
