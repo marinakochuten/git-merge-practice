@@ -23,7 +23,8 @@ star_wars_df
 And do something with it:
 
 ```{python}
-star_wars_df.info()
+star_wars_df.info().head
+
 ```
 
 ```{python}
