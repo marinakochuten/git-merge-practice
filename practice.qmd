@@ -26,6 +26,8 @@ And do something with it:
 
 star_wars_df.plot()
 
+star_wars_df.dtypes
+
 ```
 
 ```{python}
