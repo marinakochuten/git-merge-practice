@@ -23,7 +23,12 @@ star_wars_df
 And do something with it:
 
 ```{python}
+<<<<<<< HEAD
 star_wars_df.plot()
+=======
+star_wars_df.info().head
+
+>>>>>>> 809f2595caeeaeec8693d716f2a78a016e4af3e9
 ```
 
 ```{python}
